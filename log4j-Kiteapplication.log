@@ -1,0 +1,14 @@
+2022-09-22 02:23:46,825  INFO [main] Kite:15 - URL is opned
+2022-09-22 02:23:47,082  INFO [main] Kite:18 - username send
+2022-09-22 02:23:47,282  INFO [main] Kite:20 - password send
+2022-09-22 02:23:47,433  INFO [main] Kite:22 - logingBTN click
+2022-09-22 02:23:49,557  INFO [main] Kite:27 - pin send
+2022-09-22 02:23:49,641  INFO [main] Kite:29 - continueBTN click
+2022-09-22 02:23:49,657  INFO [main] Kite:34 - Login Test Passed
+2022-09-22 20:39:27,580  INFO [main] BaseClass:14 - URL is opned
+2022-09-22 20:39:28,606  INFO [main] BaseClass:17 - username send
+2022-09-22 20:39:29,071  INFO [main] BaseClass:19 - password send
+2022-09-22 20:39:29,404  INFO [main] BaseClass:21 - logingBTN click
+2022-09-22 20:39:31,524  INFO [main] BaseClass:26 - pin send
+2022-09-22 20:39:31,620  INFO [main] BaseClass:28 - continueBTN click
+2022-09-22 20:39:31,665  INFO [main] BaseClass:33 - Login Test Passed
